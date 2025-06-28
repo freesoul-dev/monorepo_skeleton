@@ -1,3 +1,3 @@
 # Monorepo Skeleton
 
-Generated starter skeleton for ABC pilots.
+.sol Starter skeleton for ABC pilots.
