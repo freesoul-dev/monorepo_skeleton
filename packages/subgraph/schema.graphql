@@ -1,0 +1,5 @@
+type Pilot @entity {
+  id: ID!
+  chainId: Int!
+  name: String!
+}
