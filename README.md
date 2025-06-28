@@ -1,3 +1,3 @@
 # Monorepo Skeleton
 
-Generated starter skeleton for VCAN / SAM / Reparations pilots.
+Generated starter skeleton for ABC pilots.
